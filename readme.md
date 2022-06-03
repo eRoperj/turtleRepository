@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Public class Tester
 {
     public static void main(String args[])
@@ -5,3 +6,9 @@ Public class Tester
         System.out.println("Hello World!");
     }
 }
+=======
+
+
+
+# hi
+>>>>>>> master
