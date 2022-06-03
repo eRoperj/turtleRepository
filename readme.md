@@ -6,3 +6,12 @@ Public class Tester
         System.out.println("Hello World!");
     }
 }
+<<<<<<< HEAD
+=======
+=======
+
+
+
+# hi
+>>>>>>> master
+>>>>>>> newBranch
