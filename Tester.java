@@ -8,7 +8,7 @@ public class Tester
 
         System.out.println("Type anything you'd like");
         String firstInput = kbreader.nextLine();
-        System.out.println("You have typed '"  + firstInput+ "'");
+
 
         
     }
